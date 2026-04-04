@@ -1,2 +1,2 @@
-# GSMUZB_1-RENT
+# GSMUZB_1
 Rent 
